@@ -39,12 +39,4 @@ Managing application state using localStorage
 Building reusable and scalable front-end logic
 Thinking like a front-end developer before writing code
 
-## 🔗 Demo & Repository
-Live Demo: (https://hajarzain222.github.io/Electro-Shop/)
-GitHub Repository: (https://github.com/HajarZain222/Electro-Shop)
 
-## 👩‍💻 Author
-Hajar Zain
-Front-End Developer
-ITI Trainee
-# ElectroShop
